@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Davi Leonardo, sou do interior de SP. Cursei o ensino médio no SESI, com o curso técnico em Logistica de programação e TI. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAI. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu grupo de Whatsapp[Desenvolvimentobackend| Developer ](sem grupo )", onde trocamos ideias para criar projetos web, Automação de whatsapp e Telegram.
+Me chamo Davi Leonardo, sou de Botucatu-SP. Cursei o ensino médio no SESI, com o curso técnico em Logistica de programação e TI. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAI. Sou apaixonado por tecnologia e estou em constante aprendizado, tentando inovar cada vez mais.
 
 <p align="left">
     <a href="https://github.com/desenvolvedorback?tab=repositories&sort=stargazers">
@@ -50,7 +50,14 @@ Me chamo Davi Leonardo, sou do interior de SP. Cursei o ensino médio no SESI, c
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 
 
 
