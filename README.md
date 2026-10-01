@@ -35,39 +35,28 @@
 <!-- ===================== TECNOLOGIAS ===================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=90&text=TECNOLOGIAS&fontSize=30&fontColor=ffffff&color=0:001BFF,50:0A84FF,100:00E5FF&animation=fadeIn&section=header" alt="Tecnologias" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github&theme=dark" alt="Ícones das tecnologias" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,python,flask,c,cpp,cs,postgres,mysql,docker,linux,git,github,figma&theme=dark" alt="Ícones das tecnologias" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/HTML5-0A84FF?style=for-the-badge&logo=html5&logoColor=white&labelColor=001BFF" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-0A84FF?style=for-the-badge&logo=css3&logoColor=white&labelColor=001BFF" alt="CSS3" />
 <img src="https://img.shields.io/badge/JavaScript-0A84FF?style=for-the-badge&logo=javascript&logoColor=white&labelColor=001BFF" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Java-0A84FF?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=001BFF" alt="Java" />
+<img src="https://img.shields.io/badge/TypeScript-0A84FF?style=for-the-badge&logo=typescript&logoColor=white&labelColor=001BFF" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-0A84FF?style=for-the-badge&logo=react&logoColor=white&labelColor=001BFF" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-0A84FF?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=001BFF" alt="Node.js" />
 <img src="https://img.shields.io/badge/Python-0A84FF?style=for-the-badge&logo=python&logoColor=white&labelColor=001BFF" alt="Python" />
+<img src="https://img.shields.io/badge/Flask-0A84FF?style=for-the-badge&logo=flask&logoColor=white&labelColor=001BFF" alt="Flask" />
+<img src="https://img.shields.io/badge/Java-0A84FF?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=001BFF" alt="Java" />
+<img src="https://img.shields.io/badge/C-0A84FF?style=for-the-badge&logo=c&logoColor=white&labelColor=001BFF" alt="C" />
+<img src="https://img.shields.io/badge/C%2B%2B-0A84FF?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=001BFF" alt="C++" />
+<img src="https://img.shields.io/badge/C%23-0A84FF?style=for-the-badge&logo=csharp&logoColor=white&labelColor=001BFF" alt="C#" />
+<img src="https://img.shields.io/badge/SQL-0A84FF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=001BFF" alt="SQL" />
+<img src="https://img.shields.io/badge/Docker-0A84FF?style=for-the-badge&logo=docker&logoColor=white&labelColor=001BFF" alt="Docker" />
+<img src="https://img.shields.io/badge/Linux-0A84FF?style=for-the-badge&logo=linux&logoColor=white&labelColor=001BFF" alt="Linux" />
 <img src="https://img.shields.io/badge/Git-0A84FF?style=for-the-badge&logo=git&logoColor=white&labelColor=001BFF" alt="Git" />
-
-<!-- ===================== ATIVIDADE ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=90&text=ATIVIDADE&fontSize=30&fontColor=ffffff&color=0:001BFF,50:0A84FF,100:00E5FF&animation=fadeIn&section=header" alt="Atividade" />
-
-<a href="https://github.com/desenvolvedorback">
-  <img width="100%" src="https://ghchart.rshah.org/0A84FF/desenvolvedorback" alt="Gráfico de contribuições" />
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=desenvolvedorback&locale=pt_BR&background=0D1117&ring=00E5FF&fire=0A84FF&currStreakNum=00E5FF&currStreakLabel=0A84FF&sideNums=FFFFFF&sideLabels=0A84FF&dates=8B949E&stroke=0A84FF&border=0A84FF" alt="Sequência de contribuições" />
-
-<br/><br/>
-
-<a href="https://github.com/desenvolvedorback?tab=repositories">
-  <img src="https://img.shields.io/badge/VER_REPOSIT%C3%93RIOS-00E5FF?style=for-the-badge&logo=github&logoColor=001BFF&labelColor=001BFF" alt="Ver repositórios" />
-</a>
-<a href="https://github.com/desenvolvedorback?tab=followers">
-  <img src="https://custom-icon-badges.demolab.com/github/followers/desenvolvedorback?color=0A84FF&labelColor=001BFF&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" alt="Seguidores" />
-</a>
-<a href="https://github.com/desenvolvedorback?tab=repositories&sort=stargazers">
-  <img src="https://custom-icon-badges.demolab.com/github/stars/desenvolvedorback?color=0A84FF&labelColor=001BFF&style=for-the-badge&logo=star&label=Estrelas&logoColor=white" alt="Estrelas" />
-</a>
+<img src="https://img.shields.io/badge/GitHub-0A84FF?style=for-the-badge&logo=github&logoColor=white&labelColor=001BFF" alt="GitHub" />
+<img src="https://img.shields.io/badge/Figma-0A84FF?style=for-the-badge&logo=figma&logoColor=white&labelColor=001BFF" alt="Figma" />
 
 <!-- ===================== CONTATO ===================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=90&text=CONTATO&fontSize=30&fontColor=ffffff&color=0:001BFF,50:0A84FF,100:00E5FF&animation=fadeIn&section=header" alt="Contato" />
