@@ -65,10 +65,10 @@
 <!-- ===================== ATIVIDADES ===================== -->
 
 <div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=desenvolvedorback&bg_color=0D1117&color=00E5FF&line=0A84FF&point=FFFFFF&area=true&area_color=0A84FF&hide_border=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%B5es" alt="Gráfico de atividade" />
-
+  <img width="100%" src="https://ghchart.rshah.org/0A84FF/desenvolvedorback" alt="Gráfico de atividade do GitHub" />
 </div>
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:001BFF,50:00E5FF,100:001BFF" alt="divisor" />
 
