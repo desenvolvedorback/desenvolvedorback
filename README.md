@@ -35,7 +35,7 @@
 <!-- ===================== TECNOLOGIAS ===================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=90&text=TECNOLOGIAS&fontSize=30&fontColor=ffffff&color=0:001BFF,50:0A84FF,100:00E5FF&animation=fadeIn&section=header" alt="Tecnologias" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,python,flask,c,cpp,cs,postgres,mysql,docker,linux,git,github,figma&theme=dark" alt="Ícones das tecnologias" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,python,flask,c,cpp,cs,arduino,postgres,mysql,sqlite,firebase,docker,linux,git,github,figma&theme=dark" alt="Ícones das tecnologias" />
 
 <br/><br/>
 
@@ -51,7 +51,10 @@
 <img src="https://img.shields.io/badge/C-0A84FF?style=for-the-badge&logo=c&logoColor=white&labelColor=001BFF" alt="C" />
 <img src="https://img.shields.io/badge/C%2B%2B-0A84FF?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=001BFF" alt="C++" />
 <img src="https://img.shields.io/badge/C%23-0A84FF?style=for-the-badge&logo=csharp&logoColor=white&labelColor=001BFF" alt="C#" />
+<img src="https://img.shields.io/badge/Arduino-0A84FF?style=for-the-badge&logo=arduino&logoColor=white&labelColor=001BFF" alt="Arduino" />
 <img src="https://img.shields.io/badge/SQL-0A84FF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=001BFF" alt="SQL" />
+<img src="https://img.shields.io/badge/SQLite-0A84FF?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=001BFF" alt="SQLite" />
+<img src="https://img.shields.io/badge/Firebase-0A84FF?style=for-the-badge&logo=firebase&logoColor=white&labelColor=001BFF" alt="Firebase" />
 <img src="https://img.shields.io/badge/Docker-0A84FF?style=for-the-badge&logo=docker&logoColor=white&labelColor=001BFF" alt="Docker" />
 <img src="https://img.shields.io/badge/Linux-0A84FF?style=for-the-badge&logo=linux&logoColor=white&labelColor=001BFF" alt="Linux" />
 <img src="https://img.shields.io/badge/Git-0A84FF?style=for-the-badge&logo=git&logoColor=white&labelColor=001BFF" alt="Git" />
