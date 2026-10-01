@@ -61,6 +61,19 @@
 <img src="https://img.shields.io/badge/GitHub-0A84FF?style=for-the-badge&logo=github&logoColor=white&labelColor=001BFF" alt="GitHub" />
 <img src="https://img.shields.io/badge/Figma-0A84FF?style=for-the-badge&logo=figma&logoColor=white&labelColor=001BFF" alt="Figma" />
 
+
+<!-- ===================== ATIVIDADES ===================== -->
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=desenvolvedorback&bg_color=0D1117&color=00E5FF&line=0A84FF&point=FFFFFF&area=true&area_color=0A84FF&hide_border=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%B5es" alt="Gráfico de atividade" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:001BFF,50:00E5FF,100:001BFF" alt="divisor" />
+
+
+
 <!-- ===================== CONTATO ===================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=90&text=CONTATO&fontSize=30&fontColor=ffffff&color=0:001BFF,50:0A84FF,100:00E5FF&animation=fadeIn&section=header" alt="Contato" />
 
