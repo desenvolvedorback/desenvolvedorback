@@ -22,11 +22,9 @@
 <br/>
 <img src="https://img.shields.io/badge/ORIGEM-Botucatu_--_SP,_Brasil-0A84FF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=001BFF" alt="Origem" />
 <br/>
-<img src="https://img.shields.io/badge/FUN%C3%87%C3%83O-Desenvolvedor_Back--end-00E5FF?style=for-the-badge&logoColor=white&labelColor=001BFF" alt="Função" />
+<img src="https://img.shields.io/badge/FUN%C3%87%C3%83O-Desenvolvedor_Full--stack-00E5FF?style=for-the-badge&logoColor=white&labelColor=001BFF" alt="Função" />
 <br/>
 <img src="https://img.shields.io/badge/ENSINO_M%C3%89DIO-SESI_%C2%B7_T%C3%A9cnico_em_Log%C3%ADstica_de_Programa%C3%A7%C3%A3o_e_TI-0A84FF?style=for-the-badge&labelColor=001BFF" alt="Ensino médio" />
-<br/>
-<img src="https://img.shields.io/badge/GRADUA%C3%87%C3%83O-ADS_%C2%B7_SENAI-0A84FF?style=for-the-badge&labelColor=001BFF" alt="Graduação" />
 <br/>
 <img src="https://img.shields.io/badge/FOCO-APIs_%C2%B7_L%C3%B3gica_%C2%B7_Arquitetura_%C2%B7_Inova%C3%A7%C3%A3o-00E5FF?style=for-the-badge&labelColor=001BFF" alt="Foco" />
 
